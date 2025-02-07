@@ -56,9 +56,10 @@ To allow everyone in your organization to create meetings that allow anonymous u
 To manage anonymous meeting join for your entire organization, follow these steps:
 
 1. Go to the Teams admin center.
-1. Expand **Meetings** > **Meeting policies**.
-1. Under **Participants**, toggle the **Anonymous users can join a meeting** setting **On** or **Off**.
-1. Select **Save**.
+2. Expand **Meetings** > **Meeting policies**.
+3. Select **Global (Org-wide default)**.
+4. Under **Participants**, toggle the **Anonymous users can join a meeting** setting **On** or **Off**.
+5. Select **Save**.
 
 ### Per-organizer
 
@@ -67,10 +68,10 @@ To control which users or groups can host meetings that allow anonymous particip
 To manage anonymous meeting join for specific meeting organizers, follow these steps:
 
 1. Go to the Teams admin center.
-1. Expand **Meetings** > **Meeting settings**.
-1. Select an existing policy or create a new one.
-1. Under **Participants**, toggle the **Anonymous users can join a meeting** setting **On** or **Off**.
-1. Select **Save**.
+2. Expand **Meetings** > **Meeting settings**.
+3. Select an existing policy or create a new one.
+4. Under **Participants**, toggle the **Anonymous users can join a meeting** setting **On** or **Off**.
+5. Select **Save**.
 
 Changes to meeting policies might take up to 24 hours to take effect.
 
